@@ -27,3 +27,7 @@
 
 ***UMAP dimensionaly with n_neighbors = 7 and min_dist = 1***
 ![download](https://user-images.githubusercontent.com/63126292/99630030-c0528e80-29fe-11eb-9704-9fe6658cccd0.png)
+
+## 4. Link to my work
+Due to the large file, I can't upload my work on GitHub. However, I attach my work through google colab
+https://colab.research.google.com/drive/14Vgmx5nvFua145AoIZeMjsgBwcznoHqp?usp=sharing
