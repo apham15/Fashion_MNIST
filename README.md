@@ -20,3 +20,4 @@
 ![download (2)](https://user-images.githubusercontent.com/63126292/99629616-e9265400-29fd-11eb-9780-ed496f9c6402.png)
 
 * The best dimensional reduction to visualize is UMAP with n_neighbors = 5 and min_dist = 0.3 or n_neighbors = 7 and min_dist = 1
+![download](https://user-images.githubusercontent.com/63126292/99630030-c0528e80-29fe-11eb-9704-9fe6658cccd0.png)
