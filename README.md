@@ -30,5 +30,7 @@
 ![download](https://user-images.githubusercontent.com/63126292/99630030-c0528e80-29fe-11eb-9704-9fe6658cccd0.png)
 
 ## 4. Link to my work
-Due to the large file, I can't upload my work on GitHub. However, I attach my work through google colab
+* Due to the large file, I can't upload my work on GitHub. However, I attach my work through google colab
 https://colab.research.google.com/drive/14Vgmx5nvFua145AoIZeMjsgBwcznoHqp?usp=sharing
+* Also, I attach python file here
+https://github.com/apham15/Fashion_MNIST/blob/main/unsupervised_learning_clustering_for_fashion_mnist.py
