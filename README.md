@@ -7,10 +7,16 @@
 
 ## 2. What I do in this projects
 ### a. Finding  the best Unsupervised Learning Algorithm by evaluating the best Silhouette score
+
+* Applied KMeans clustering, Hierarchical clustering, and Gaussian mixture models clustering
+* Utilized Silhouette coefficient to determine which one is the best model
+
 ### b. Visualizing the dataset
+* Applied demensionally reduction with PCA, t-SNE, and UMAP
+* Evaluated based on visuall plots
 
 ## 3. Results.
-### a. The best Clustering Model is KMeans with the number of cluster is 4
+* The best Clustering Model is KMeans with the number of cluster is 4
 ![download (2)](https://user-images.githubusercontent.com/63126292/99629616-e9265400-29fd-11eb-9780-ed496f9c6402.png)
 
-### b. The best dimentionality reduction to visualize is UMAP with n_neighbors = 5 and min_dist = 0.3 or n_neighbors = 7 and min_dist = 1
+* The best dimensional reduction to visualize is UMAP with n_neighbors = 5 and min_dist = 0.3 or n_neighbors = 7 and min_dist = 1
