@@ -2,7 +2,7 @@
 
 ## 1. Understand the dataset
 
-`Fashion-MNIST` is a dataset of [Zalando](https://jobs.zalando.com/tech/)'s article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. We intend `Fashion-MNIST` to serve as a direct **drop-in replacement** for the original [MNIST dataset](http://yann.lecun.com/exdb/mnist/) for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.
+`Fashion-MNIST` is a dataset of [Zalando](https://jobs.zalando.com/tech/)'s article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. `Fashion-MNIST` serves as a direct **drop-in replacement** for the original [MNIST dataset](http://yann.lecun.com/exdb/mnist/) for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.
 
 ![Screen Shot 2020-11-19 at 12 50 04 AM](https://user-images.githubusercontent.com/63126292/99631413-2f30e700-2a01-11eb-84aa-6ce1fdc6ddbd.png)
 
@@ -34,6 +34,10 @@
 
 ## 4. Link to my work
 * Due to the large file, I can't upload my work on GitHub. However, I attach my work through google colab
-https://colab.research.google.com/drive/1cdfu56A7ze5n3v5mvs-dneJaZT4jtGmo?usp=sharing
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1cdfu56A7ze5n3v5mvs-dneJaZT4jtGmo?usp=sharing)
+
 * Also, I attach python file here
-https://github.com/apham15/Fashion_MNIST/blob/main/unsupervised_learning_clustering_for_fashion_mnist%20(1).py
+[![Run in Python](https://img.shields.io/badge/Python-Run_in_Python-blue?logo=Python)](https://github.com/apham15/Fashion_MNIST/blob/main/unsupervised_learning_clustering_for_fashion_mnist%20(1).py)
+
+And please connect with me on Linkedin. 
+[![](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?logo=LinkedIn&style=social)](https://www.linkedin.com/in/anhpham96/)
