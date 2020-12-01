@@ -9,7 +9,7 @@
 ## 2. What I do in this projects
 ### a. Finding  the best Unsupervised Learning Algorithm by evaluating the best Silhouette score
 
-* Applied KMeans clustering, Hierarchical clustering, and Gaussian mixture models clustering
+* Applied KMeans, Hierarchical, Gaussian Mixture, and DBSCAN clustering model
 * Utilized Silhouette coefficient to determine which one is the best model
 
 ### b. Visualizing the dataset
